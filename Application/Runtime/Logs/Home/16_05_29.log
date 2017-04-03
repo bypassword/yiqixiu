@@ -1,0 +1,6 @@
+[ 2016-05-29T01:02:52+08:00 ] 180.149.130.149 /%7B%7BlogoSrc%7D%7D
+ERR: 无法加载控制器:{{logoSrc}}
+
+[ 2016-05-29T01:02:52+08:00 ] 180.149.130.152 /%7B%7BPREFIX_FILE_HOST%20+%20home.image.imgSrc%7D%7D
+ERR: 无法加载控制器:{{PREFIX_FILE_HOST + home.image.imgSrc}}
+

@@ -1,0 +1,9 @@
+[ 2016-06-16T15:06:39+08:00 ] 61.135.190.72 /eqs/wx/ticket
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-06-16T18:05:45+08:00 ] 182.150.0.142 /eqs/wx/ticket?time=1466071544949
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-06-16T18:06:01+08:00 ] 116.31.126.164 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+

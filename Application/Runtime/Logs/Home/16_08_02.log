@@ -1,0 +1,12 @@
+[ 2016-08-02T10:22:23+08:00 ] 123.125.71.117 /robots.txt
+ERR: 无法加载控制器:Robots.txt
+
+[ 2016-08-02T10:25:19+08:00 ] 123.125.71.43 /osCommerce/OM/version.txt
+ERR: 无法加载控制器:OsCommerce/OM/version.txt
+
+[ 2016-08-02T19:18:27+08:00 ] 183.61.236.109 /eqs/wx/ticket?time=1470136710704
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-08-02T19:18:28+08:00 ] 183.61.236.40 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+

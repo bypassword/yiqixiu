@@ -1,0 +1,942 @@
+[ 2016-05-22T11:21:04+08:00 ] 221.213.87.65 /%7B%7BPREFIX_FILE_HOST%20+%20home.image.imgSrc%7D%7D
+ERR: 无法加载控制器:{{PREFIX_FILE_HOST + home.image.imgSrc}}
+
+[ 2016-05-22T11:21:27+08:00 ] 221.213.87.65 /m/scene/guided?type=1&time=1463887342185
+ERR: 无法加载控制器:M/scene/guided
+
+[ 2016-05-22T11:22:21+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463887341307
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T11:22:28+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=22150?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T11:23:08+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463887387973
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T11:23:08+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=22150?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T11:24:13+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463887453516
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T11:24:16+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=22150?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T11:25:25+08:00 ] 14.17.34.237 /eqs/wx/ticket?time=1463887524306
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T11:25:26+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=22150?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T11:27:02+08:00 ] 14.17.34.237 /eqs/wx/ticket?time=1463887622028
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T11:27:04+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=22150?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T11:27:54+08:00 ] 117.136.84.102 /eqs/wx/ticket?time=1463887674754
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T11:27:56+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=22150?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T11:28:27+08:00 ] 14.17.34.237 /eqs/wx/ticket?time=1463887706593
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T11:28:28+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=22150?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T11:29:16+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463887756252
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T11:29:16+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=22150?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T11:30:55+08:00 ] 221.213.87.65 /m/scene/usePageTpl?id=434
+ERR: 无法加载控制器:M/scene/usePageTpl
+
+[ 2016-05-22T11:31:18+08:00 ] 221.213.87.65 /assets/images/privilege/title1.svg
+ERR: 无法加载控制器:Assets/images/privilege/title1.svg
+
+[ 2016-05-22T11:31:18+08:00 ] 221.213.87.65 /assets/images/privilege/title2.svg
+ERR: 无法加载控制器:Assets/images/privilege/title2.svg
+
+[ 2016-05-22T11:31:18+08:00 ] 221.213.87.65 /assets/images/privilege/title3.svg
+ERR: 无法加载控制器:Assets/images/privilege/title3.svg
+
+[ 2016-05-22T11:31:43+08:00 ] 221.213.87.65 /m/u/company/smscode/send?phone=13759169373&time=1463887960232
+ERR: 无法加载控制器:M/u/company/smscode/send
+
+[ 2016-05-22T11:31:46+08:00 ] 221.213.87.65 /m/u/company/smscode/send?phone=13759169373&time=1463887964067
+ERR: 无法加载控制器:M/u/company/smscode/send
+
+[ 2016-05-22T11:33:11+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831290
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T11:33:27+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463888006963
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T11:33:27+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831290?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T11:33:29+08:00 ] 221.213.87.65 /eqs/dial
+ERR: 无法加载控制器:Eqs/dial
+
+[ 2016-05-22T11:33:40+08:00 ] 221.213.87.65 /eqs/dial
+ERR: 无法加载控制器:Eqs/dial
+
+[ 2016-05-22T11:34:51+08:00 ] 221.213.87.65 /Uploads/null
+ERR: 无法加载控制器:Uploads/null
+
+[ 2016-05-22T11:34:51+08:00 ] 221.213.87.65 /m/u/showker/status
+ERR: 无法加载控制器:M/u/showker/status
+
+[ 2016-05-22T11:35:07+08:00 ] 221.213.87.65 /Uploads/null
+ERR: 无法加载控制器:Uploads/null
+
+[ 2016-05-22T11:35:07+08:00 ] 221.213.87.65 /m/u/showker/status
+ERR: 无法加载控制器:M/u/showker/status
+
+[ 2016-05-22T11:37:25+08:00 ] 221.213.87.65 /%7B%7BPREFIX_FILE_HOST%20+%20home.image.imgSrc%7D%7D
+ERR: 无法加载控制器:{{PREFIX_FILE_HOST + home.image.imgSrc}}
+
+[ 2016-05-22T11:37:43+08:00 ] 221.213.87.65 /Uploads/null
+ERR: 无法加载控制器:Uploads/null
+
+[ 2016-05-22T11:37:48+08:00 ] 221.213.87.65 /index.php?c=company&a=info?time=1463888325359
+ERR: 非法操作:info?time=1463888325359
+
+[ 2016-05-22T11:37:58+08:00 ] 221.213.87.65 /assets/images/privilege/title1.svg
+ERR: 无法加载控制器:Assets/images/privilege/title1.svg
+
+[ 2016-05-22T11:37:58+08:00 ] 221.213.87.65 /assets/images/privilege/title2.svg
+ERR: 无法加载控制器:Assets/images/privilege/title2.svg
+
+[ 2016-05-22T11:37:58+08:00 ] 221.213.87.65 /assets/images/privilege/title3.svg
+ERR: 无法加载控制器:Assets/images/privilege/title3.svg
+
+[ 2016-05-22T11:45:14+08:00 ] 221.213.87.65 /%7B%7BPREFIX_FILE_HOST%20+%20home.image.imgSrc%7D%7D
+ERR: 无法加载控制器:{{PREFIX_FILE_HOST + home.image.imgSrc}}
+
+[ 2016-05-22T11:45:56+08:00 ] 61.54.46.87 /eqs/wx/ticket?time=1463888756202
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T11:45:56+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=22150?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T11:46:22+08:00 ] 58.211.2.150 /eqs/wx/ticket?time=1463888782453
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T11:46:23+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=22150?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T11:47:22+08:00 ] 221.213.87.65 /Uploads/null
+ERR: 无法加载控制器:Uploads/null
+
+[ 2016-05-22T11:47:32+08:00 ] 221.213.87.65 /assets/images/privilege/title1.svg
+ERR: 无法加载控制器:Assets/images/privilege/title1.svg
+
+[ 2016-05-22T11:47:32+08:00 ] 221.213.87.65 /assets/images/privilege/title2.svg
+ERR: 无法加载控制器:Assets/images/privilege/title2.svg
+
+[ 2016-05-22T11:47:32+08:00 ] 221.213.87.65 /assets/images/privilege/title3.svg
+ERR: 无法加载控制器:Assets/images/privilege/title3.svg
+
+[ 2016-05-22T11:47:42+08:00 ] 221.213.87.65 /m/u/pay/member/url?goodsId=3&type=1
+ERR: 无法加载控制器:M/u/pay/member/url
+
+[ 2016-05-22T11:47:44+08:00 ] 221.213.87.65 /m/u/pay/member/url?goodsId=3&type=1
+ERR: 无法加载控制器:M/u/pay/member/url
+
+[ 2016-05-22T11:48:27+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831290
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T11:49:42+08:00 ] 221.213.87.65 /Uploads/null
+ERR: 无法加载控制器:Uploads/null
+
+[ 2016-05-22T11:49:52+08:00 ] 221.213.87.65 /index.php?c=company&a=info?time=1463889049843
+ERR: 非法操作:info?time=1463889049843
+
+[ 2016-05-22T11:51:20+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831290
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T11:51:36+08:00 ] 58.211.2.150 /eqs/wx/ticket?time=1463889096008
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T11:51:36+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831290?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T11:52:23+08:00 ] 221.213.87.65 /m/c/detail/7?date=1463889200344
+ERR: 无法加载控制器:M/c/detail/7
+
+[ 2016-05-22T11:55:59+08:00 ] 61.54.46.87 /www.baidu.com
+ERR: 无法加载控制器:Www.baidu.com
+
+[ 2016-05-22T11:57:37+08:00 ] 61.54.46.87 /www.baidu.com
+ERR: 无法加载控制器:Www.baidu.com
+
+[ 2016-05-22T11:58:11+08:00 ] 61.54.46.87 /m/scene/social/share/status?id=8831290
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T12:09:06+08:00 ] 123.125.71.73 /robots.txt
+ERR: 无法加载控制器:Robots.txt
+
+[ 2016-05-22T12:09:13+08:00 ] 61.54.46.87 /Uploads/null
+ERR: 无法加载控制器:Uploads/null
+
+[ 2016-05-22T12:09:21+08:00 ] 61.54.46.45 /assets/images/privilege/title1.svg
+ERR: 无法加载控制器:Assets/images/privilege/title1.svg
+
+[ 2016-05-22T12:09:21+08:00 ] 61.54.46.81 /assets/images/privilege/title2.svg
+ERR: 无法加载控制器:Assets/images/privilege/title2.svg
+
+[ 2016-05-22T12:09:21+08:00 ] 61.54.46.45 /assets/images/privilege/title3.svg
+ERR: 无法加载控制器:Assets/images/privilege/title3.svg
+
+[ 2016-05-22T12:13:34+08:00 ] 58.211.2.150 /eqs/wx/ticket?time=1463890414058
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T12:13:34+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831290?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T12:14:38+08:00 ] 221.213.87.65 /%7B%7BPREFIX_FILE_HOST%20+%20home.image.imgSrc%7D%7D
+ERR: 无法加载控制器:{{PREFIX_FILE_HOST + home.image.imgSrc}}
+
+[ 2016-05-22T12:22:24+08:00 ] 221.213.87.65 //m/u/member/detail?userId=6
+ERR: 无法加载控制器:M/u/member/detail
+
+[ 2016-05-22T12:22:32+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831291
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T12:22:58+08:00 ] 221.213.87.65 /m/scene/expand/list?id=8831291&showPv=true&time=1463891035557
+ERR: 无法加载控制器:M/scene/expand/list
+
+[ 2016-05-22T12:22:58+08:00 ] 221.213.87.65 /m/scene/pv/device?id=8831291&type=1&time=1463891035557
+ERR: 无法加载控制器:M/scene/pv/device
+
+[ 2016-05-22T12:22:58+08:00 ] 221.213.87.65 /m/scene/pv/region?id=8831291&type=1&time=1463891035557
+ERR: 无法加载控制器:M/scene/pv/region
+
+[ 2016-05-22T12:23:07+08:00 ] 221.213.87.65 /m/scene/pv/device?id=8831291&type=7&time=1463891044394
+ERR: 无法加载控制器:M/scene/pv/device
+
+[ 2016-05-22T12:23:08+08:00 ] 221.213.87.65 /m/scene/pv/device?id=8831291&type=30&time=1463891045146
+ERR: 无法加载控制器:M/scene/pv/device
+
+[ 2016-05-22T12:23:08+08:00 ] 221.213.87.65 /m/scene/pv/device?id=8831291&type=1&time=1463891045690
+ERR: 无法加载控制器:M/scene/pv/device
+
+[ 2016-05-22T12:23:10+08:00 ] 221.213.87.65 /m/scene/pv/region?id=8831291&type=7&time=1463891047236
+ERR: 无法加载控制器:M/scene/pv/region
+
+[ 2016-05-22T12:23:10+08:00 ] 221.213.87.65 /m/scene/pv/region?id=8831291&type=30&time=1463891047723
+ERR: 无法加载控制器:M/scene/pv/region
+
+[ 2016-05-22T12:23:11+08:00 ] 221.213.87.65 /m/scene/pv/device?id=8831291&type=7&time=1463891048834
+ERR: 无法加载控制器:M/scene/pv/device
+
+[ 2016-05-22T12:23:12+08:00 ] 221.213.87.65 /m/scene/pv/device?id=8831291&type=30&time=1463891049301
+ERR: 无法加载控制器:M/scene/pv/device
+
+[ 2016-05-22T12:23:34+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831291
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T12:23:35+08:00 ] 221.213.87.65 /m/scene/expand/list?id=8831291&showPv=true&time=1463891072203
+ERR: 无法加载控制器:M/scene/expand/list
+
+[ 2016-05-22T12:23:35+08:00 ] 221.213.87.65 /m/scene/pv/device?id=8831291&type=1&time=1463891072203
+ERR: 无法加载控制器:M/scene/pv/device
+
+[ 2016-05-22T12:23:35+08:00 ] 221.213.87.65 /m/scene/pv/region?id=8831291&type=1&time=1463891072203
+ERR: 无法加载控制器:M/scene/pv/region
+
+[ 2016-05-22T12:23:43+08:00 ] 221.213.87.65 /m/scene/expand/list?id=8831291&showPv=true&time=1463891080474
+ERR: 无法加载控制器:M/scene/expand/list
+
+[ 2016-05-22T12:23:43+08:00 ] 221.213.87.65 /m/scene/pv/device?id=8831291&type=1&time=1463891080474
+ERR: 无法加载控制器:M/scene/pv/device
+
+[ 2016-05-22T12:23:43+08:00 ] 221.213.87.65 /m/scene/pv/region?id=8831291&type=1&time=1463891080474
+ERR: 无法加载控制器:M/scene/pv/region
+
+[ 2016-05-22T12:23:44+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831291
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T12:23:45+08:00 ] 221.213.87.65 /m/scene/expand/list?id=8831291&showPv=true&time=1463891082767
+ERR: 无法加载控制器:M/scene/expand/list
+
+[ 2016-05-22T12:23:45+08:00 ] 221.213.87.65 /m/scene/pv/device?id=8831291&type=1&time=1463891082767
+ERR: 无法加载控制器:M/scene/pv/device
+
+[ 2016-05-22T12:23:45+08:00 ] 221.213.87.65 /m/scene/pv/region?id=8831291&type=1&time=1463891082767
+ERR: 无法加载控制器:M/scene/pv/region
+
+[ 2016-05-22T12:24:05+08:00 ] 221.213.87.65 /index.php??c=scenedata&a=excel&flag=noheader&id=8831290
+ERR: 非法操作:excel
+
+[ 2016-05-22T12:24:11+08:00 ] 221.213.87.65 /m/scene/expand/list?id=8831290&showPv=true&time=1463891108294
+ERR: 无法加载控制器:M/scene/expand/list
+
+[ 2016-05-22T12:24:11+08:00 ] 221.213.87.65 /m/scene/pv/device?id=8831290&type=1&time=1463891108295
+ERR: 无法加载控制器:M/scene/pv/device
+
+[ 2016-05-22T12:24:11+08:00 ] 221.213.87.65 /m/scene/pv/region?id=8831290&type=1&time=1463891108295
+ERR: 无法加载控制器:M/scene/pv/region
+
+[ 2016-05-22T12:26:56+08:00 ] 221.213.87.65 /m/scene/expand/list?id=8831290&showPv=true&time=1463891273265
+ERR: 无法加载控制器:M/scene/expand/list
+
+[ 2016-05-22T12:26:56+08:00 ] 221.213.87.65 /m/scene/pv/device?id=8831290&type=1&time=1463891273266
+ERR: 无法加载控制器:M/scene/pv/device
+
+[ 2016-05-22T12:26:56+08:00 ] 221.213.87.65 /m/scene/pv/region?id=8831290&type=1&time=1463891273266
+ERR: 无法加载控制器:M/scene/pv/region
+
+[ 2016-05-22T12:27:45+08:00 ] 221.213.87.65 /m/scene/expand/list?id=8831290&showPv=true&time=1463891322197
+ERR: 无法加载控制器:M/scene/expand/list
+
+[ 2016-05-22T12:27:45+08:00 ] 221.213.87.65 /m/scene/pv/device?id=8831290&type=1&time=1463891322197
+ERR: 无法加载控制器:M/scene/pv/device
+
+[ 2016-05-22T12:27:45+08:00 ] 221.213.87.65 /m/scene/pv/region?id=8831290&type=1&time=1463891322197
+ERR: 无法加载控制器:M/scene/pv/region
+
+[ 2016-05-22T12:31:04+08:00 ] 180.149.130.151 /%7B%7BlogoSrc%7D%7D
+ERR: 无法加载控制器:{{logoSrc}}
+
+[ 2016-05-22T12:31:04+08:00 ] 180.149.130.148 /%7B%7BPREFIX_FILE_HOST%20+%20home.image.imgSrc%7D%7D
+ERR: 无法加载控制器:{{PREFIX_FILE_HOST + home.image.imgSrc}}
+
+[ 2016-05-22T12:33:21+08:00 ] 61.54.46.63 /assets/images/create/effect_bg.jpg
+ERR: 无法加载控制器:Assets/images/create/effect_bg.jpg
+
+[ 2016-05-22T12:33:58+08:00 ] 61.54.46.87 //m/u/member/detail?userId=6
+ERR: 无法加载控制器:M/u/member/detail
+
+[ 2016-05-22T12:34:18+08:00 ] 61.54.46.87 /m/scene/social/share/status?id=8831290
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T12:35:15+08:00 ] 61.54.46.45 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T12:35:22+08:00 ] 61.54.46.57 /assets/images/oval.svg
+ERR: 无法加载控制器:Assets/images/oval.svg
+
+[ 2016-05-22T12:36:35+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831290
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T12:37:20+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463891840689
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T12:37:21+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831290?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T12:37:55+08:00 ] 221.213.87.65 /eqs/dial
+ERR: 无法加载控制器:Eqs/dial
+
+[ 2016-05-22T12:38:37+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831290
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T12:38:41+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831290
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T12:38:47+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463891927399
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T12:38:47+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831290?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T12:38:49+08:00 ] 221.213.87.65 /eqs/dial
+ERR: 无法加载控制器:Eqs/dial
+
+[ 2016-05-22T12:39:33+08:00 ] 221.213.87.65 /assets/images/create/delete.png
+ERR: 无法加载控制器:Assets/images/create/delete.png
+
+[ 2016-05-22T12:39:55+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T12:40:36+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831290
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T12:40:42+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831290
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T12:40:49+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463892049247
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T12:40:49+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831290?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T15:09:13+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T15:09:28+08:00 ] 221.213.87.65 //m/u/member/detail?userId=6
+ERR: 无法加载控制器:M/u/member/detail
+
+[ 2016-05-22T15:09:34+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T16:45:04+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T16:45:24+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T16:45:41+08:00 ] 221.213.87.65 //m/u/member/detail?userId=6
+ERR: 无法加载控制器:M/u/member/detail
+
+[ 2016-05-22T16:45:46+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T16:46:00+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463906760674
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T16:46:04+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T16:46:32+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463906792202
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T16:46:32+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T16:46:42+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463906802938
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T16:46:43+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T16:47:27+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T16:47:34+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T16:47:35+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T16:47:38+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T16:47:43+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T16:47:49+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T16:47:57+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T16:49:17+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T16:49:27+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T16:49:44+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T16:49:46+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T16:50:26+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463907026501
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T16:50:28+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T16:52:08+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T16:52:17+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T16:52:31+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T17:12:41+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T17:13:00+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T17:13:20+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T17:21:11+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T17:21:56+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T17:23:36+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T17:23:44+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T17:24:06+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T17:24:15+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T17:24:22+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T17:24:47+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T17:24:57+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463909097579
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T17:25:02+08:00 ] 116.31.126.164 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T17:35:38+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T17:35:44+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T17:35:50+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T17:36:16+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T17:36:30+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T17:36:35+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463909795067
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T17:36:35+08:00 ] 116.31.126.164 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T17:36:41+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463909801243
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T17:36:41+08:00 ] 116.31.126.164 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T17:40:45+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T17:40:58+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T17:41:09+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T17:42:24+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T17:42:30+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T17:43:15+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T17:43:29+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T17:44:08+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T17:44:11+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T17:44:20+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463910260588
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T17:44:21+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T17:44:30+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463910270526
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T17:44:31+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T17:48:15+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463910495220
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T17:48:15+08:00 ] 116.31.126.164 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T17:48:28+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463910508942
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T17:48:29+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T17:48:29+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T17:49:50+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T17:50:00+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T17:50:03+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463910603436
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T17:50:05+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T21:07:38+08:00 ] 61.54.46.45 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T21:07:49+08:00 ] 61.54.46.45 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T21:08:01+08:00 ] 61.54.46.87 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T21:08:11+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463922491444
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T21:08:15+08:00 ] 116.31.126.164 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T21:09:45+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T21:09:48+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T21:09:55+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463922595490
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T21:10:00+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T21:10:30+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T21:10:33+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T21:10:41+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T21:10:47+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T21:10:53+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463922653839
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T21:10:56+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T21:12:10+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T21:12:15+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T21:12:27+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T21:12:30+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T21:12:31+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T21:12:40+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463922760241
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T21:12:41+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T21:13:21+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T21:13:39+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T21:13:43+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T21:13:53+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T21:13:56+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463922836719
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T21:13:57+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T21:14:26+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T21:14:41+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463922881784
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T21:14:42+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T21:15:43+08:00 ] 221.213.87.65 //m/u/member/detail?userId=6
+ERR: 无法加载控制器:M/u/member/detail
+
+[ 2016-05-22T21:15:45+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T21:16:02+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T21:16:06+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T21:16:46+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T21:16:54+08:00 ] 221.213.87.65 //m/u/member/detail?userId=6
+ERR: 无法加载控制器:M/u/member/detail
+
+[ 2016-05-22T21:16:59+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T21:17:22+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T21:17:55+08:00 ] 221.213.87.65 //m/u/member/detail?userId=6
+ERR: 无法加载控制器:M/u/member/detail
+
+[ 2016-05-22T21:17:56+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T21:18:03+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T21:18:13+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T21:18:43+08:00 ] 221.213.87.65 //m/u/member/detail?userId=6
+ERR: 无法加载控制器:M/u/member/detail
+
+[ 2016-05-22T21:18:55+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T21:19:29+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463923169677
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T21:19:30+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T21:19:43+08:00 ] 221.213.87.65 //m/u/member/detail?userId=6
+ERR: 无法加载控制器:M/u/member/detail
+
+[ 2016-05-22T21:19:56+08:00 ] 221.213.87.65 //m/u/member/detail?userId=6
+ERR: 无法加载控制器:M/u/member/detail
+
+[ 2016-05-22T21:20:05+08:00 ] 221.213.87.65 /assets/images/create/setting/loading.svg
+ERR: 无法加载控制器:Assets/images/create/setting/loading.svg
+
+[ 2016-05-22T21:20:07+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T21:20:27+08:00 ] 221.213.87.65 /index.php?c=scene&a=saveSettings
+ERR: UPDATE `cj_scene` SET `is_payloadlog`='1' WHERE `sceneid_bigint` = 8831292
+   update:array (
+  'xd' => 99912,
+)
+
+[ 2016-05-22T21:20:27+08:00 ] 221.213.87.65 /index.php?c=scene&a=saveSettings
+ERR: UPDATE `cj_scene` SET `is_payxd`='99' WHERE `sceneid_bigint` = 8831292
+   update:array (
+  'xd' => 99813,
+)
+
+[ 2016-05-22T21:20:29+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T21:20:48+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463923248446
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T21:20:52+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T22:36:50+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T22:37:11+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T22:39:29+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T22:39:38+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T22:39:51+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T22:43:46+08:00 ] 61.54.46.87 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T22:43:50+08:00 ] 61.54.46.87 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T22:44:07+08:00 ] 61.54.46.87 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T22:44:18+08:00 ] 61.54.46.87 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T22:44:25+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463928265484
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T22:44:27+08:00 ] 116.31.126.164 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T22:44:34+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463928274224
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T22:44:34+08:00 ] 116.31.126.164 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T22:44:44+08:00 ] 61.54.46.87 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T22:45:21+08:00 ] 61.54.46.87 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T22:45:24+08:00 ] 61.54.46.87 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T22:45:28+08:00 ] 61.54.46.87 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T22:45:36+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463928336690
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T22:45:37+08:00 ] 116.31.126.164 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T22:46:56+08:00 ] 61.54.46.87 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T22:47:04+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463928424549
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T22:47:04+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T22:48:14+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T22:48:30+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463928510142
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T22:48:30+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T22:51:11+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T22:51:22+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T23:18:09+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T23:18:25+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T23:18:58+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T23:19:10+08:00 ] 120.52.113.120 /eqs/wx/ticket?time=1463930350171
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T23:19:10+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T23:19:16+08:00 ] 120.52.113.120 /eqs/wx/ticket?time=1463930356593
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T23:19:17+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T23:22:19+08:00 ] 61.54.46.87 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T23:22:26+08:00 ] 61.54.46.87 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T23:22:42+08:00 ] 61.54.46.87 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T23:23:11+08:00 ] 61.54.46.87 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T23:23:28+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463930608367
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T23:23:32+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T23:24:07+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T23:24:13+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463930653293
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T23:24:13+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T23:32:33+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T23:32:40+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463931160877
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T23:32:41+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T23:35:49+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T23:38:51+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T23:39:10+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T23:41:08+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T23:41:20+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463931680051
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T23:41:23+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T23:41:56+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T23:42:01+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463931721937
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T23:42:02+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T23:52:40+08:00 ] 221.213.87.65 /m/scene/social/share/status?id=8831292
+ERR: 无法加载控制器:M/scene/social/share/status
+
+[ 2016-05-22T23:52:49+08:00 ] 221.213.87.65 /eqs/wx/ticket?time=1463932369508
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-05-22T23:52:52+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-05-22T23:59:30+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+
+[ 2016-05-22T23:59:49+08:00 ] 221.213.87.65 /assets/images/1tu.png
+ERR: 无法加载控制器:Assets/images/1tu.png
+

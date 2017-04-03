@@ -1,0 +1,39 @@
+[ 2016-06-13T05:58:47+08:00 ] 101.71.55.146 /eqs/wx/ticket?time=1465768727685
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-06-13T05:58:48+08:00 ] 116.31.126.164 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-06-13T12:19:03+08:00 ] 117.34.13.72 /eqs/wx/ticket?time=1465791552781
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-06-13T12:19:04+08:00 ] 58.211.2.102 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-06-13T12:21:17+08:00 ] 58.211.2.102 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-06-13T12:21:33+08:00 ] 58.211.2.102 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-06-13T12:30:32+08:00 ] 117.34.13.72 /eqs/wx/ticket?time=1465792241847
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-06-13T12:30:33+08:00 ] 58.211.2.102 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-06-13T14:05:00+08:00 ] 220.170.185.18 /eqs/wx/ticket?time=1465797899417
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-06-13T14:05:01+08:00 ] 220.170.185.36 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-06-13T15:25:08+08:00 ] 61.135.190.72 /eqs/wx/ticket
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-06-13T18:26:21+08:00 ] 120.52.113.115 /eqs/wx/ticket?time=1465813573560
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-06-13T18:26:23+08:00 ] 116.31.126.164 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+

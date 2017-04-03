@@ -1,0 +1,1 @@
+https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx40e4c82c3d9df03e&secret=bd0c68efdcff8a65cc5d06f2e5e77f65 n getJsApiTicket:NULLngetJsApiTicket:NULLn

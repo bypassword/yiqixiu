@@ -1,0 +1,6 @@
+[ 2016-11-03T14:59:50+08:00 ] 123.125.71.54 /robots.txt
+ERR: 无法加载控制器:Robots.txt
+
+[ 2016-11-03T15:02:32+08:00 ] 123.125.71.12 /core/version.txt
+ERR: 无法加载控制器:Core/version.txt
+

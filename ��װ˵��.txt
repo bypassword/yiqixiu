@@ -1,0 +1,34 @@
+安装说明文档
+安装前需要做的事情：
+
+配置伪静态规则，伪静态说明也在根目录
+
+--------------------------------------------------------
+
+安装步骤：
+1、把文件包上传到网站根目录
+2、创建一个数据库
+然后导入数据库文件（源码根目录下的ewesambo.sql）到数据库
+
+
+3、修改数据库
+
+打开：Application\Common\Conf\systemConfig.php
+配置服务器
+$public_system_db_host = '127.0.0.1';（这个不要修改）
+$public_system_db_name = 'ewesambo';  //你的数据库名称
+$public_system_db_user = 'ewesambo';   //你的数据库用户名
+$public_system_db_pwd = 'ewesambo';  //你的数据库密码
+
+
+4、安装完成
+
+
+然后把php.ini里面的  max_execution_time  改成500  不然可能采集失败
+---------------------------------------------------------------
+
+前台地址：http://域名
+后台地址：http://域名/adminc.php
+
+默认后台账号密码都是admin@qq.com  admin
+

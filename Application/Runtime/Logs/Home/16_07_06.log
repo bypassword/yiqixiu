@@ -1,0 +1,21 @@
+[ 2016-07-06T15:27:22+08:00 ] 116.31.126.162 /eqs/wx/ticket?time=1467789963349
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2016-07-06T15:27:24+08:00 ] 116.31.126.164 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+
+[ 2016-07-06T16:07:29+08:00 ] 162.158.255.136 //admin.php
+ERR: 无法加载控制器:Admin.php
+
+[ 2016-07-06T16:07:29+08:00 ] 162.158.255.136 //themes/store/default/footer.html
+ERR: 无法加载控制器:Themes/store/default/footer
+
+[ 2016-07-06T16:07:30+08:00 ] 162.158.255.136 //themes/store/default/footer.html
+ERR: 无法加载控制器:Themes/store/default/footer
+
+[ 2016-07-06T16:07:31+08:00 ] 162.158.255.136 //admin.php
+ERR: 无法加载控制器:Admin.php
+
+[ 2016-07-06T16:09:22+08:00 ] 61.135.190.200 //themes/store/default/footer.html
+ERR: 无法加载控制器:Themes/store/default/footer
+

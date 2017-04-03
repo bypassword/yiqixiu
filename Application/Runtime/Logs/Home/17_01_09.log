@@ -1,0 +1,9 @@
+[ 2017-01-09T21:04:23+08:00 ] 220.181.108.95 /license.txt
+ERR: 无法加载控制器:License.txt
+
+[ 2017-01-09T23:03:11+08:00 ] 117.136.84.188 /eqs/wx/ticket?time=1483974194626
+ERR: 无法加载控制器:Eqs/wx/ticket
+
+[ 2017-01-09T23:03:12+08:00 ] 120.24.156.253 /?c=stat&a=statget&type=10&sceneid=8831292?1=1
+ERR: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+

@@ -1,0 +1,6 @@
+[ 2016-09-15T05:13:22+08:00 ] 123.125.71.104 /robots.txt
+ERR: 无法加载控制器:Robots.txt
+
+[ 2016-09-15T05:16:12+08:00 ] 220.181.108.114 /osCommerce/OM/version.txt
+ERR: 无法加载控制器:OsCommerce/OM/version.txt
+
